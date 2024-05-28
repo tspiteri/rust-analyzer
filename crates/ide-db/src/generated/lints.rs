@@ -6223,7 +6223,7 @@ The tracking issue for this feature is: [#109736]
         label: "lazy_cell_consume",
         description: r##"# `lazy_cell_consume`
 
-The tracking issue for this feature is: [#109736]
+The tracking issue for this feature is: [#125623]
 
 [#109736]: https://github.com/rust-lang/rust/issues/109736
 
